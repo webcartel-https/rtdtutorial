@@ -1,16 +1,23 @@
-Usage
-=====
-
 .. _installation:
 
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To install checkoAPI:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+ $ pip install checkoAPI
+
+Or
+
+.. code-block:: console
+
+$ git clone https://github.com/webcartel-https/checkoAPI
+
+$ cd checkoAPI
+
+$ python3 setup.py
 
 Creating recipes
 ----------------
